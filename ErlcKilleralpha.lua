@@ -5,6 +5,18 @@ local plr = game:GetService("Players").LocalPlayer
 local plrs = game:GetService("Players")
 getgenv()["IrisAd"]=true
 
+--[[
+This is a alpha versions if you want to see stuff like code watch the playlist i will also add some totorials sooon
+https://www.youtube.com/watch?v=FFfdyV8gnWk&list=PLeEpKJ3KUzfQnKu-Xk_CDcfAsHtAppe2W
+------
+Get Updates or help on the discord server or report if you got banned from something
+COMING SOON
+------
+Use always an alt account!!!
+ER:LC Killer 0.5 by !$McletsHacks_YT#6141
+enjoy!
+]]
+
 wait(1)
 spawn(function()
     Notification.Notify("Please Wait", "Gui is Loading...", "rbxassetid://4914902889");
