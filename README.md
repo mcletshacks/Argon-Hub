@@ -12,5 +12,5 @@ adding erlc killer 1.0 soon
 +Added godmode (refill health any 1 sec)
 
 
-+New discord server report if you got banned from a module so we can fix/remove it or get help if you have proplems withe
-the script
++New discord server, report if you got banned from a module so we can fix/remove it, get help if you have proplems withe
+the script, chat or play withe other Members
