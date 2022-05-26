@@ -13,4 +13,4 @@ added Argon Hub
 
 
 +New discord server, report if you got banned from a module so we can fix/remove it, get help if you have proplems withe
-the script, chat or play withe other Members https://discord.gg/HVERBkxK
+the script, chat or play withe other Members https://discord.gg/jnqUnJAA83
