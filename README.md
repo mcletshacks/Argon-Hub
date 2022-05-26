@@ -1,4 +1,4 @@
-adding erlc killer 1.0 soon
+added Argon Hub
 
 +Added postal autofarm
 
@@ -13,4 +13,4 @@ adding erlc killer 1.0 soon
 
 
 +New discord server, report if you got banned from a module so we can fix/remove it, get help if you have proplems withe
-the script, chat or play withe other Members
+the script, chat or play withe other Members https://discord.gg/HVERBkxK
