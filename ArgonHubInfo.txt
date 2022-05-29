@@ -1,0 +1,68 @@
+╠ Argon Hub Info ╣
+
+Made By McletsHacks
+
+Channel for Infos, Totorials, Updates and more: https://www.youtube.com/channel/UCkCLag5koKPNIIk6MId1eBg
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+╚ For new Users ╝
+
+Argon Only tested for SynapseX! maybe also work for free exploits like krnl
+
+if you are new to argon hub you need to get your key first. you get the key by joining our discord server and creating a ticket.
+You can also check the status for the script, play withe other member, chat withe other members, get support, join giveaways and more
+
+˃ https://discord.gg/jnqUnJAA83
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+╚ Argon Modules ╝
+
+Argon has at the moment 38 modules in ERLC
+
+˃Dev: 1 Module
+
+˃Tools: 5 modules
+
+˃Player: 6 Modules
+
+˃Credits: 3 modules
+
+˃Teleports: 11 Teleports 1 Coming soon Modules
+
+˃Weapons: 10 Modules
+
+˃AutoFarm: 2 Modules
+
+↓
+
+More Comming soon
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+╚ Games info ╝
+
+Argon hub currently supports 2 games ERLC and Bee-Swarm Simulator but ERLC is the main game
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+╚ About Updates ╝
+
+I always add or update things when I have time or have coded new things
+
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+╚ AutoFarm Info ╝
+
+the 2 most important things are
+
+1. You always have to be in the game, don't minimize or go to another tab/window, otherwise the packages won't be delivered correctly
+
+2. If You disable the autofarm you will get kicked to disable the autofarm so wait until you get payed if you want the money
+
+also
+
+3. Most of the auto farm was made from the heart so deliver package and equip package and get House position and you often fell through the map (after the house update because the auto farm was made 2-3 days before the update) which I fixed (McletsHacks)
+
+4. In the premium version the autofarm will repeat 1000 times so you can go sleep ( and let the window open don't minimize ) and if you wake up you rich xd
