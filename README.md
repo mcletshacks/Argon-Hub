@@ -2,7 +2,7 @@ added Argon Hub
 
 --Important--
 
-Its Patched RN!
+ITS PATCHED!!! RN!!!
 
 To get whitelisted for Argon hub please join the discord and check out the "how-to-wl" channel!!!!!!!
 https://discord.gg/jnqUnJAA83
