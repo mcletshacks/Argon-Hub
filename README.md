@@ -14,10 +14,14 @@ the script, chat or play withe other Members. There are also some robux giveaway
 
 {
 (3.7.22 or 7.3.22)
-+Added new Key System
-+Added Anti HTTP Spy
+
 *New Gui
+
 *Complete Recode
+
++Added new Key System
+
++Added Anti HTTP Spy
 
 +Instand die "escape" (can be usefull to tp away from cops and save die witheout goin to prison)
 
