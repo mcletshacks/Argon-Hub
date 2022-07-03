@@ -3,7 +3,7 @@ added Argon Hub
 --Important--
 
 To get the key for Argon hub please join the discord and check out the "Script" channel!
-https://discord.gg/jnqUnJAA83
+https://dsc.gg/argon-hub
 ----------------------------------------------------------
 
 +New discord server, report if you got banned from a module so we can fix/remove it, get help if you have proplems withe
