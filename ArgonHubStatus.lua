@@ -1,5 +1,5 @@
 return {
-"ERLC_Unpatched",
+"ERLC_Unpatched"
 "Millionaire_Unpatched"
 }
 
