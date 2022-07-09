@@ -1,5 +1,5 @@
 --Get the key on the discord: https://dsc.gg/argon-hub
-Key = "Admin_McletsHacks"
+Key = "YOUR KEY"
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
