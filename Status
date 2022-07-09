@@ -2,3 +2,4 @@ return {
 "ERLC_Unpatched"
 "Millionaire_Unpatched"
 }
+print("lol")
