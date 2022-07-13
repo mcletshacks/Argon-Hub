@@ -435,7 +435,7 @@ function Library:create(options)
 		Name = "Argon Hub",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "https://github.com/mcletshacks/Argon-Hub/blob/main/src.lua"
+		Link = "https://github.com/mcletshacks/Argon-Hub/blob/main/backup_lib.lua"
 	}, options)
 
 	if getgenv and getgenv().MercuryUI then
