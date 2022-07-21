@@ -1,6 +1,6 @@
 getgenv().WallHack.Visuals = {
     ESPSettings = {
-        Enabled = true,
+        Enabled = value,
         TextColor = "255, 255, 255",
         TextSize = 22,
         Center = true,
@@ -62,10 +62,10 @@ getgenv().WallHack.Crosshair = {
 }
 
 getgenv().WallHack.Settings = {
-    SendNotifications = true,
+    SendNotifications = false,
     SaveSettings = true, -- Re-execute upon changing
     ReloadOnTeleport = true,
-    Enabled = true,
+    Enabled = value,
     TeamCheck = false,
     AliveCheck = true
 }
