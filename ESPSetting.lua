@@ -65,7 +65,7 @@ getgenv().WallHack.Settings = {
     SendNotifications = false,
     SaveSettings = false, -- Re-execute upon changing
     ReloadOnTeleport = true,
-    Enabled = true,
+    Enabled = ...,
     TeamCheck = false,
     AliveCheck = true
 }
