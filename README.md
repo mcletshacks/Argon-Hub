@@ -15,20 +15,20 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 
 --------------
 
-Update log 4
-Free version 1.1
+Update log 4 | 
+Free version 1.1 | 
 Loadstring fixed
 
 --------------
 
-Update log 3 30.07.2022
-Premium version 3.3
+Update log 3 30.07.2022 | 
+Premium version 3.3 | 
 Loadstring fixed
 
 --------------
 
-Update log 2 27.07.2022
-Premium version 3.3 released
+Update log 2 27.07.2022 | 
+Premium version 3.3 | released
 
 --------------
 
