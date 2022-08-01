@@ -1,8 +1,8 @@
 getgenv().WallHack.Visuals = {
     ESPSettings = {
         Enabled = true,
-        TextColor = "20, 90, 255",
-        TextSize = 14,
+        TextColor = "255, 255, 255",
+        TextSize = 22,
         Center = true,
         Outline = true,
         OutlineColor = "0, 0, 0",
@@ -18,13 +18,13 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "50, 120, 255"
+        Color = "150, 0, 255"
     },
 
     BoxSettings = {
         Enabled = true,
         Type = 1; -- 1 - 3D; 2 - 2D;
-        Color = "50, 120, 255",
+        Color = "255, 255, 255",
         Transparency = 0.7,
         Thickness = 1,
         Filled = false, -- For 2D
