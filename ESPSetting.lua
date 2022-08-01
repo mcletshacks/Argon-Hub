@@ -5,7 +5,7 @@ getgenv().WallHack.Visuals = {
         TextSize = 22,
         Center = true,
         Outline = true,
-        OutlineColor = "100, 0, 0",
+        OutlineColor = "0, 0, 0",
         TextTransparency = 0.7,
         TextFont = Drawing.Fonts.Monospace, -- UI, System, Plex, Monospace
         DisplayDistance = true,
@@ -18,21 +18,21 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "0, 0, 255"
+        Color = "255, 255, 255"
     },
 
     BoxSettings = {
         Enabled = true,
         Type = 1; -- 1 - 3D; 2 - 2D;
         Color = "255, 255, 255",
-        Transparency = 0.7,
+        Transparency = 0.6,
         Thickness = 1,
         Filled = false, -- For 2D
         Increase = 1
     },
 
     HeadDotSettings = {
-        Enabled = true,
+        Enabled = false,
         Color = "50, 120, 255",
         Transparency = 0.5,
         Thickness = 1,
@@ -48,7 +48,7 @@ getgenv().WallHack.Crosshair = {
         Type = 1, -- 1 - Mouse; 2 - Center
         Size = 12,
         Thickness = 1,
-        Color = "0, 255, 0",
+        Color = "255, 255, 255",
         Transparency = 1,
         GapSize = 5,
         CenterDot = false,
