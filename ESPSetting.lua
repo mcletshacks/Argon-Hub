@@ -33,7 +33,7 @@ getgenv().WallHack.Visuals = {
 
     HeadDotSettings = {
         Enabled = false,
-        Color = "0, 255, 255",
+        Color = "255, 255, 255",
         Transparency = 0.5,
         Thickness = 1,
         Filled = true,
@@ -48,7 +48,7 @@ getgenv().WallHack.Crosshair = {
         Type = 1, -- 1 - Mouse; 2 - Center
         Size = 12,
         Thickness = 1,
-        Color = "52, 235, 107",
+        Color = "255, 0, 255",
         Transparency = 1,
         GapSize = 5,
         CenterDot = false,
