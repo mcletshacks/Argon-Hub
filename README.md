@@ -15,7 +15,7 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 
 --------------
 
-Update log 4 | 
+Update log 4 1.8.2022 | 
 Free version 1.1 | 
 Loadstring fixed
 
