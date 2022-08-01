@@ -18,7 +18,7 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "0, 255, 0"
+        Color = "0, 0, 255"
     },
 
     BoxSettings = {
