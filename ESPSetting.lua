@@ -5,7 +5,7 @@ getgenv().WallHack.Visuals = {
         TextSize = 22,
         Center = true,
         Outline = true,
-        OutlineColor = "0, 0, 0",
+        OutlineColor = "100, 0, 0",
         TextTransparency = 0.7,
         TextFont = Drawing.Fonts.Monospace, -- UI, System, Plex, Monospace
         DisplayDistance = true,
@@ -18,7 +18,7 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "150, 0, 255"
+        Color = "0, 255, 0"
     },
 
     BoxSettings = {
