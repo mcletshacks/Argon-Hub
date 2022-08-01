@@ -32,6 +32,7 @@ Premium version 3.3 released
 
 --------------
 
+Update log 1
 {
 (3.7.22 or 7.3.22)
 
@@ -61,3 +62,5 @@ Supported Games:
 2. Millionaire Empire (Work but you need to enable inf money for complete auto build, also be on a clear server without other players!)
 }
 
+
+--------------
