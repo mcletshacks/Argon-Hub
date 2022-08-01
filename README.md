@@ -13,9 +13,9 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 
 --Chance log--
 
---------------
 
 Update Log Number | Date | Version
+
 
 --------------
 
