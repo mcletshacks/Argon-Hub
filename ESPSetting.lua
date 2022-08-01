@@ -28,7 +28,7 @@ getgenv().WallHack.Visuals = {
         Transparency = 0.6,
         Thickness = 1,
         Filled = false, -- For 2D
-        Increase = 1
+        Increase = 4
     },
 
     HeadDotSettings = {
