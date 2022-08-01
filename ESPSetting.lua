@@ -33,7 +33,7 @@ getgenv().WallHack.Visuals = {
 
     HeadDotSettings = {
         Enabled = false,
-        Color = "235, 52, 52",
+        Color = "235, 52, 255",
         Transparency = 0.5,
         Thickness = 1,
         Filled = true,
