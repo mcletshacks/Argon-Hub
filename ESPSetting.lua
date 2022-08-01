@@ -62,8 +62,8 @@ getgenv().WallHack.Crosshair = {
 }
 
 getgenv().WallHack.Settings = {
-    SendNotifications = true,
-    SaveSettings = true, -- Re-execute upon changing
+    SendNotifications = false,
+    SaveSettings = false, -- Re-execute upon changing
     ReloadOnTeleport = true,
     Enabled = true,
     TeamCheck = false,
