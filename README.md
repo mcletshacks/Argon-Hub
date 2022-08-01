@@ -1,5 +1,5 @@
-https://www.youtube.com/watch?v=md0641lJeBk
-Argon 3.0 showcase
+https://youtu.be/8vnvSE8X3D0
+Argon 1.1 Fre version showcase
 
 --Important--
 
@@ -12,6 +12,25 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 ----------------------------------------------------------
 
 --Chance log--
+
+--------------
+
+Update log 4
+Free version 1.1
+Loadstring fixed
+
+--------------
+
+Update log 3 30.07.2022
+Premium version 3.3
+Loadstring fixed
+
+--------------
+
+Update log 2 27.07.2022
+Premium version 3.3 released
+
+--------------
 
 {
 (3.7.22 or 7.3.22)
