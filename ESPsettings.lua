@@ -2,7 +2,7 @@ getgenv().WallHack.Visuals = {
     ESPSettings = {
         Enabled = true,
         TextColor = "255, 255, 255",
-        TextSize = 22,
+        TextSize = 14,
         Center = true,
         Outline = true,
         OutlineColor = "0, 0, 0",
@@ -18,13 +18,13 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "255, 255, 255"
+        Color = "255, 0, 255"
     },
 
     BoxSettings = {
         Enabled = true,
         Type = 1; -- 1 - 3D; 2 - 2D;
-        Color = "255, 0, 255",
+        Color = "255, 255, 255",
         Transparency = 0.7,
         Thickness = 1,
         Filled = false, -- For 2D
@@ -62,10 +62,10 @@ getgenv().WallHack.Crosshair = {
 }
 
 getgenv().WallHack.Settings = {
-    SendNotifications = false,
+    SendNotifications = true,
     SaveSettings = true, -- Re-execute upon changing
     ReloadOnTeleport = true,
-    Enabled = false,
+    Enabled = true,
     TeamCheck = false,
     AliveCheck = true
 }
