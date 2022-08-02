@@ -1,7 +1,7 @@
 getgenv().WallHack.Visuals = {
     ESPSettings = {
         Enabled = true,
-        TextColor = "20, 90, 255",
+        TextColor = "255, 255, 255",
         TextSize = 14,
         Center = true,
         Outline = true,
@@ -18,7 +18,7 @@ getgenv().WallHack.Visuals = {
         Type = 1, -- 1 - Bottom; 2 - Center; 3 - Mouse
         Transparency = 0.7,
         Thickness = 1,
-        Color = "50, 120, 255"
+        Color = "150, 120, 0"
     },
 
     BoxSettings = {
@@ -33,7 +33,7 @@ getgenv().WallHack.Visuals = {
 
     HeadDotSettings = {
         Enabled = true,
-        Color = "50, 120, 255",
+        Color = "0, 0, 255",
         Transparency = 0.5,
         Thickness = 1,
         Filled = true,
