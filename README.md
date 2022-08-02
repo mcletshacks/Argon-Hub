@@ -21,11 +21,11 @@ Update Log Number | Date | Version | Chancelog
 
 Update log 5 | 2.8.2022 | 
 Premium version 3.5 |        
-+Added aimbot
-+added keybind teleports
-*fixed esp lag (buggy if you respawn)
-*fixed sheriff teleport shows 2 times
-*fixed parking garage teleport
++Added aimbot        
++added keybind teleports        
+*fixed esp lag (buggy if you respawn)        
+*fixed sheriff teleport shows 2 times        
+*fixed parking garage teleport        
 
 --------------
 
