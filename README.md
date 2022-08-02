@@ -26,6 +26,7 @@ Premium version 3.5 |
 *fixed esp lag (buggy if you respawn)        
 *fixed sheriff teleport shows 2 times        
 *fixed parking garage teleport        
+*fixed instand die escape (teleport)        
 
 --------------
 
