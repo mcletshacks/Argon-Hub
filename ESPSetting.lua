@@ -38,7 +38,7 @@ getgenv().WallHack.Visuals = {
         Thickness = 1,
         Filled = true,
         Sides = 30,
-        Size = 2
+        Size = 1
     }
 }
 
