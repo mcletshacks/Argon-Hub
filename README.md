@@ -19,6 +19,14 @@ Update Log Number | Date | Version | Chancelog
 
 --------------
 
+Update log 7 | 3.8.2022 |         
+Free version 1.2 |           
+*fixed nothing work after instand die        
+*fixed nothing work after instand die (escape)        
+*fixed nothing work after teleport in your car        
+
+--------------
+
 Update log 6 | 3.8.2022 |         
 Premium version 3.6 |           
 *fixed nothing work after instand die        
