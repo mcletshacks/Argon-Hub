@@ -17,6 +17,11 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 Update Log Number | Date | Version | Chancelog
 
 
+Update log 8 | 8.8.2022 |
+Free AutoFarm menu version 1.2 |
+*added better die check
+*faster autofarm
+
 --------------
 
 Update log 7 | 3.8.2022 |         
