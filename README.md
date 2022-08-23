@@ -21,7 +21,8 @@ Update Log Number | Date | Version | Chancelog
          
          
          
-         
+--------------
+
 Update log 9 | 23.8.2022 |         
 Premium version 3.7 |         
 
