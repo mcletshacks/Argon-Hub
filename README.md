@@ -20,6 +20,30 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 Update Log Number | Date | Version | Chancelog
 
 
+Update log 9 | 23.8.2022 |         
+Premium version 3.7 |         
+
++Added complete new ESP         
++Added Full automatic ATM Autofarm         
++Added Auto complete safe         
++Added Anticheat bypass         
++Added Anti AFK         
++Added ClickTP         
++Added Silent Aim (Police + Sheriff)         
++Added Silent Aim (Criminal, Beta)         
++Added Silent Aim (All, Beta)         
++Added Car Boost (x1)         
++Added Car Boost (x2)         
++Added Car Boost (x3)         
++Added Instand Gas         
+         
+*Fixed Sheriff tp shows 2 times         
+*Fixed Postal autofarm         
+         
+-Removed No Recoil         
+
+--------------
+
 Update log 8 | 8.8.2022 |         
 Free AutoFarm menu version 1.2 |         
 *added better die check         
