@@ -1,5 +1,8 @@
 https://youtu.be/8vnvSE8X3D0
-Argon 1.1 Fre version showcase
+Argon 1.1 Free version showcase
+
+https://www.youtube.com/watch?v=70LAxC3PJgU
+Argon 3.6 Paid version showcase
 
 --Important--
 
