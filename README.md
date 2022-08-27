@@ -23,6 +23,16 @@ Update Log Number | Date | Version | Chancelog
          
 --------------
 
+Update log 10 | 27.8.2022 |         
+Free version 1.3 |         
+         
++Added Inf Jump         
++Added new start gui         
++Added better ESP         
++Added Instand Gas         
+
+--------------
+
 Update log 9 | 23.8.2022 |         
 Premium version 3.7 |         
 
