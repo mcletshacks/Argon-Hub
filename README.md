@@ -23,6 +23,19 @@ Update Log Number | Date | Version | Chancelog
          
 --------------
 
+Update log 11 | 31.8.2022 |         
+Paid version, Early Access 3.8 |         
+         
++Added ATM Autofarm         
++Added House Autofarm         
++Added Loader         
++Added Drill Autofarm         
+         
+/ Fixed Autocomplete safe         
+/ Fixed Others tps not working         
+
+--------------
+
 Update log 10 | 27.8.2022 |         
 Free version 1.3 |         
          
