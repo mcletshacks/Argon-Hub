@@ -23,6 +23,13 @@ Update Log Number | Date | Version | Chancelog
          
 --------------
          
+Update log 13 | 12.9.2022 |         
+Free version 1.3.1 |         
+         
+/ Changed lib loadstring to backup libary         
+         
+--------------
+         
 Update log 12 | 10.9.2022 |         
 Paid version, Early Access 3.8.1 |         
          
