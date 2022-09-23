@@ -22,6 +22,14 @@ Update Log Number | Date | Version | Chancelog
          
          
 --------------
+         
+Update log 15 | 24.9.2022 |         
+Paid version 3.9.1 |         
+         
++Added new AutoLockpick         
++Added new AutoDrill         
+         
+--------------         
 
 Update log 14 | 21.9.2022 |         
 Paid version 3.9 |         
