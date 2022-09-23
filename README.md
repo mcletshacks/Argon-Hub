@@ -22,6 +22,22 @@ Update Log Number | Date | Version | Chancelog
          
          
 --------------
+
+Update log 14 | 21.9.2022 |         
+Paid version 3.9 |         
+         
++Added Tapping Simulator         
+         
++Added better anticheat disabler         
++Added Walkspeed bypass         
++Added Speed multiplier / Noclip         
++Added New InfJump         
++Added New InfStamina         
++Added Bring car         
+         
+/Faster execute          
+         
+--------------         
          
 Update log 13 | 12.9.2022 |         
 Free version 1.3.1 |         
