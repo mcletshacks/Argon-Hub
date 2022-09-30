@@ -23,6 +23,19 @@ Update Log Number | Date | Version | Chancelog
          
 --------------
          
+Update log 16 | 30.9.2022 |         
+Paid version 3.9.2 |         
+         
++Added Noclip         
++Added Car teleports         
++Added Bring Car         
++Added new AutoLockpick         
++Added new AutoDrill         
+         
+-Removed inf stamina         
+
+--------------
+         
 Update log 15 | 24.9.2022 |         
 Paid version 3.9.1 |         
          
