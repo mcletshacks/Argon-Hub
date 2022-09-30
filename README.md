@@ -31,6 +31,8 @@ Paid version 3.9.2 |
 +Added Bring Car         
 +Added new AutoLockpick         
 +Added new AutoDrill         
+
+/Fixed House Autofarm
          
 -Removed inf stamina         
 
