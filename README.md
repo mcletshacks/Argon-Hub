@@ -23,6 +23,24 @@ Update Log Number | Date | Version | Chancelog
          
 --------------
          
+Update log 18 | 1.10.2022 |         
+Free version 1.3.2 |         
+         
++Added New InfJump
+
+/Fixed InfJump Credits         
+
+-Removed Infinite Stamina
+         
+--------------
+         
+Update log 17 | 1.10.2022 |         
+Paid version 3.9.3 |         
+         
+/Fixed InfJump Credits         
+         
+--------------
+         
 Update log 16 | 30.9.2022 |         
 Paid version 3.9.2 |         
          
