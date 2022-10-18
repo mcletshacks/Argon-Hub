@@ -20,7 +20,16 @@ the script, chat or play withe other Members. There are also some robux  giveawa
 Update Log Number | Date | Version | Chancelog
          
          
+
+--------------
          
+Update log 19 | 18.10.2022 |         
+Paid version 3.9.4 |         
+         
++Added Prison Break
+         
+-ERLC Under developement
+
 --------------
          
 Update log 18 | 1.10.2022 |         
