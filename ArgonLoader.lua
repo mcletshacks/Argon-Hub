@@ -110,7 +110,7 @@ local function IYGPOEY_fake_script() -- loading.Client
 		
 		filler:TweenSize(UDim2.new(formula, 0, 1, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Linear, 0.1, true)
 		
-		if i == 12 or i == 42 or i == 23 or i == 69 or i == 91 then
+		if i == 12 or i == 23 or i == 69 or i == 91 then
 			wait(0.6)
 		end
 	end
