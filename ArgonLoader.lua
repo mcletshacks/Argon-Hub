@@ -137,7 +137,7 @@ end
 
 	local hi = Instance.new("Sound")
 	hi.Name = "Sound"
-	hi.SoundId = "http://www.roblox.com/asset/?id=11431775356"
+	hi.SoundId = "http://www.roblox.com/asset/?id=11433432740"
 	hi.Volume = 0.7
 	hi.Looped = false
 	hi.archivable = false
