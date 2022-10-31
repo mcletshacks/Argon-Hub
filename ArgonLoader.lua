@@ -134,9 +134,10 @@ local function IYGPOEY_fake_script() -- loading.Client
 	gui:Destroy()
 end
 
+
 	local hi = Instance.new("Sound")
 	hi.Name = "Sound"
-	hi.SoundId = "http://www.roblox.com/asset/?id=11419601260"
+	hi.SoundId = "http://www.roblox.com/asset/?id=11431775356"
 	hi.Volume = 0.7
 	hi.Looped = false
 	hi.archivable = false
