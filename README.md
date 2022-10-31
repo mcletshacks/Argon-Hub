@@ -1,8 +1,8 @@
 https://youtu.be/8vnvSE8X3D0
 Argon 1.1 Free version showcase
 
-https://www.youtube.com/watch?v=70LAxC3PJgU
-Argon 3.6 Paid version showcase
+https://www.youtube.com/watch?v=8vYN3xpLEFs&t
+Argon 3.9.2 Paid version showcase
 
 --Important--
 
@@ -21,6 +21,29 @@ Update Log Number | Date | Version | Chancelog
          
          
 
+--------------
+         
+Update log 20 | 31.10.2022 |         
+Paid version 4.0 Testversion |         
+         
++Added New Argon Launcher         
+         
++Added New GUI Bypasses         
+         
++Added better anticheat Bypass         
+         
++Added WalkSpeed bypass (risky)         
+         
++Added new Teleport Bypass         
+         
++Added better Car TPS         
+         
++Added Get and Equip or Unequip for free Weapons (witheout gamepass)         
+         
++Added some other stuff         
+         
+-Removed Automatic criminal autofarm (soon back maybe)         
+         
 --------------
          
 Update log 19 | 18.10.2022 |         
