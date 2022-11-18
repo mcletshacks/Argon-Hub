@@ -112,7 +112,6 @@ local function IYGPOEY_fake_script() -- loading.Client
 		
 		if i == 12 or i == 23 or i == 69 or i == 91 then
 			wait(0.6)
-			game.Players.LocalPlayer:Kick("Argon Hub Updating, Please try again later")
 		end
 	end
 	
