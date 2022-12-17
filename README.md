@@ -22,6 +22,31 @@ Update Log Number | Date | Version | Chancelog
          
 
 --------------
+
+Update log 22 | 9.12.2022 |
+Free version 4.0 Testversion|
+
+New Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/Argon-Hub/main/Argon%20Hub%20-%20Free", true))()
+
++Added Postal Autofarm
++Added Many new TPS
++Added New TP Bypass good for any shit pc
++Added Premium Only modules so you can see what you can use in premium
++Added Premium ESP
++Added AutoLockPick
++Added WalkSpeed Bypass
++Added Argon Launcher
+
+and more stuff from premium!
+
+--------------
+
+Update log 21 | 18.10.2022 |
+Paid version 4.1 Testversion|
+
+/Updated Argon Launcher
+
+--------------
          
 Update log 20 | 31.10.2022 |         
 Paid version 4.0 Testversion |         
