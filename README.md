@@ -22,7 +22,18 @@ Update Log Number | Date | Version | Chancelog
          
 
 --------------
-         
+Update log 23 | 17.12.2022 |         
+Paid version 4.3 |         
+
++Added new AutoLockPick         
++Added new AutoSafe         
+
++Supporting TheWilWest         
+
+/Other games back         
+
+--------------
+
 Update log 22 | 9.12.2022 |         
 Free version 4.0 Testversion|         
          
