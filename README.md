@@ -22,6 +22,24 @@ Update Log Number | Date | Version | Chancelog
          
 
 --------------
+Update log 25 | 29.12.2022 |         
+Paid version 4.5 |         
+
++Added Bill esp for House Robbery         
+
+/Faster tps         
+
+--------------
+         
+Update log 24 | 24.12.2022          
+Paid version 4.4 |         
+         
++Added new AutoDrill         
+         
+/Fixed Drill credits         
+
+--------------
+
 Update log 23 | 17.12.2022 |         
 Paid version 4.3 |         
 
