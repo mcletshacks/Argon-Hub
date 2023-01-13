@@ -1,5 +1,5 @@
 --v 4.5
-
+game.Players.LocalPlayer:kick("Argon Hub is getting remade, https://dsc.gg/argon-hub")
 -- // Protected by luaGuard - Security Level high
 
 -- This file was generated using Luraph Obfuscator v13.6.2
