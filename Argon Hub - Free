@@ -1,5 +1,5 @@
 --Argon Hub free version 4.0
-
+game.Players.LocalPlayer:kick("Argon Hub is getting remade, https://dsc.gg/argon-hub")
 --NO KEY NEEDED !!!
 
 -- // Protected by luaGuard - Security Level premium
