@@ -1,5 +1,6 @@
 --Argon Hub free version 4.0
-game.Players.LocalPlayer:kick("Argon Hub is getting remade, https://dsc.gg/argon-hub")
+setclipboard("loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/ArgonHubV2/main/LoadFree/Main.lua", true))()")
+game.Players.LocalPlayer:kick("New script copied to your clipboard if not check the github link from the loadstring, Argon Hub is getting remade, https://dsc.gg/argon-hub")
 --NO KEY NEEDED !!!
 
 -- // Protected by luaGuard - Security Level premium
