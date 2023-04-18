@@ -1,18 +1,5 @@
-https://youtu.be/8vnvSE8X3D0
-Argon 1.1 Free version showcase
-
-https://www.youtube.com/watch?v=8vYN3xpLEFs&t
-Argon 3.9.2 Paid version showcase
-
---Important--
-
-To get the key for Argon hub, please join the discord and check out the "Script" channel!
-https://dsc.gg/argon-hub
-----------------------------------------------------------
-
-+New discord server, report if you got banned from a module, so we can fix/remove it, get help if you have problems withe
-the script, chat or play withe other Members. There are also some robux  giveaways sometimes https://dsc.gg/argon-hub
-----------------------------------------------------------
+Argon Hub V5 released and its free! join discord for more infos
+-> https://dsc.gg/argon-hub
 
 --Chance log--
 
